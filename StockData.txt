@@ -1,0 +1,2 @@
+CCSU,CCS Polo,Pants,Small,Medium,Large,Extra Large
+AU,Accounting Polo,Pants,Small,Medium,Large,Extra Large
